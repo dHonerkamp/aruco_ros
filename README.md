@@ -84,3 +84,8 @@ Software package and ROS wrappers of the [Aruco][1] Augmented Reality marker det
 
 
 [1]: http://www.sciencedirect.com/science/article/pii/S0031320314000235 "Automatic generation and detection of highly reliable fiducial markers under occlusion by S. Garrido-Jurado and R. Muñoz-Salinas and F.J. Madrid-Cuevas and M.J. Marín-Jiménez 2014"
+
+
+### Generate Markers
+
+Go to [https://chev.me/arucogen/](https://chev.me/arucogen/) and select "Original ArUco"
