@@ -265,7 +265,7 @@ public:
 //            visMarker.lifetime = ros::Duration(3.0);
 //            marker_pub.publish(visMarker);
 //
-//          }
+          }
 //          // but drawing all the detected markers
 //          markers[i].draw(inImage, cv::Scalar(0, 0, 255), 2);
         }
