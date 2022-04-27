@@ -268,7 +268,7 @@ public:
 //          }
 //          // but drawing all the detected markers
 //          markers[i].draw(inImage, cv::Scalar(0, 0, 255), 2);
-//        }
+        }
 //
 //        // draw a 3d cube in each marker if there is 3d info
 //        if (camParam.isValid() && marker_size != -1)
